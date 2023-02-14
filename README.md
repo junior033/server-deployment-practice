@@ -6,7 +6,7 @@
 
 ### Problem Domain:
 
-Basic API Server where we write some middleware and
+Basic API Server where we write some middleware and run some tests
 
 ### Links and Resources
 
