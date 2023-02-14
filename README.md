@@ -10,15 +10,16 @@ Basic API Server where we write some middleware and
 
 ### Links and Resources
 
-- [CI/CD]()
-- [Back-end Server Url]()
-
+- [CI/CD](https://github.com/junior033/server-deployment-practice/actions)
+- [Back-end Server Url](https://server-deployment-practice-pfpe.onrender.com)
 
 ### Setup
 
-#### `.env` requirements (where applicable)
-For now I have non but I do require one
+`.env` requirements (where applicable)
+For now I have none and do not require one
 
+How to initialize/run your application (where applicable)
+e.g. `npm start`
 
 #### Features
 
@@ -26,7 +27,9 @@ For now I have non but I do require one
 
 #### Tests
 
-- How do you run tests?
+How do you run tests?
+Any tests of note?
+Describe any tests that you did not complete, skipped, etc
 
 
 #### UML
