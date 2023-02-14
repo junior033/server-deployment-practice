@@ -1,11 +1,11 @@
-'use strict'
+'use strict';
 
-module.export = (err, req, res, next) => {
+module.exports = (err, req, res, next) => {
   res.status(500).send({
     error: 500,
     route: req.path,
     query: req.query,
     body: req.body,
-    message: `Server error ${err}`
+    message: `Server error ${err}`,
   });
-}
+};
